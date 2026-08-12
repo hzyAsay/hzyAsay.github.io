@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+
+# VitePress generated files
+.vitepress/cache/
+.vitepress/dist/
+
+# IDE
+.idea/
+
+# Backup
+docs_backup/
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+# Old generated assets
+assets/*.js
+assets/*.woff2
+assets/*.css
+assets/chunks/
+
+# VitePress example pages
+api-examples.md
+markdown-examples.md
