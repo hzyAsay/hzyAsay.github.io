@@ -35,12 +35,16 @@ next: false
     <div class="data-card-label">专业排名</div>
   </div>
   <div class="data-card">
-    <div class="data-card-value">475</div>
-    <div class="data-card-label">CET-6</div>
+    <div class="data-card-value">89.0</div>
+    <div class="data-card-label">加权均分 / 100</div>
   </div>
   <div class="data-card">
-    <div class="data-card-value">2023级</div>
-    <div class="data-card-label">本科生</div>
+    <div class="data-card-value">3.70</div>
+    <div class="data-card-label">GPA / 4.0</div>
+  </div>
+  <div class="data-card">
+    <div class="data-card-value">475</div>
+    <div class="data-card-label">CET-6</div>
   </div>
 </div>
 
@@ -102,9 +106,9 @@ next: false
       <span>智能辅助</span>
     </div>
   </div>
-  <div class="interest-card">
-    <h3>AI 应用与系统实现</h3>
-    <p>关注数据模型与 AI 能力向实际应用系统的转化，包括 AI 服务集成、模型服务化、数据管理、业务流程设计与结果可视化。</p>
+  <div class="interest-card interest-card-engineering">
+    <h3>AI 应用与系统实现（工程实践）</h3>
+    <p>将数据模型与 AI 能力集成至实际软件系统，涉及服务化、数据管理、业务流程与结果可视化，是研究方法落地与工程实现能力的延伸。</p>
     <div class="interest-keywords">
       <span>AI 服务集成</span>
       <span>模型服务化</span>
@@ -115,7 +119,7 @@ next: false
   </div>
 </div>
 
-<p class="learning-summary">这些兴趣来源于对"如何利用计算方法解决实际问题"的持续探索。本科阶段的程序设计、数学建模、统计建模与软件项目实践，使我逐步建立了从问题抽象、数据处理和模型构建，到算法实现与系统落地的完整认识。目前希望进一步加强机器学习、数据挖掘与智能信息处理方面的理论和科研训练。</p>
+<p class="learning-summary">本科阶段的程序设计、数学建模、统计建模与软件项目实践，使我逐步形成了从问题抽象、数据处理、模型构建到算法实现与系统验证的完整认识。目前希望进一步加强机器学习、数据挖掘与智能信息处理方面的理论基础和科研训练。</p>
 
 ## 代表性研究与项目
 
@@ -154,22 +158,7 @@ next: false
 
 ## 发展方向
 
-<div class="topic-grid">
-  <div class="topic-card">
-    <h4>专业基础</h4>
-    <p>继续完善机器学习、数据挖掘、智能信息处理及相关数学基础。</p>
-  </div>
-  <div class="topic-card">
-    <h4>科研训练</h4>
-    <p>提升文献阅读、问题分析、实验设计、模型验证和学术写作能力。</p>
-  </div>
-  <div class="topic-card">
-    <h4>项目实践</h4>
-    <p>持续打磨数据建模与 AI 应用项目，提高算法实现和系统集成能力。</p>
-  </div>
-</div>
-
-<p class="learning-summary">研究生阶段希望在导师指导下参与智能计算与数据驱动方法相关研究，探索其在医疗、教育、工业和数字化服务等实际场景中的应用，逐步形成稳定的研究方向。</p>
+<p class="learning-summary">研究生阶段希望进一步夯实机器学习、数据挖掘与智能信息处理基础，提升文献阅读、实验设计、模型验证与学术写作能力，并在导师指导下逐步形成稳定的研究方向。</p>
 
 ## 组织与综合能力
 

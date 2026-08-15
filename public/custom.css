@@ -565,6 +565,10 @@ hr {
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
 }
 
+.interest-card-engineering {
+  border-left: 3px solid var(--primary-color, #2563eb);
+}
+
 .interest-card h3 {
   margin-top: 0;
   font-size: 1.1rem;

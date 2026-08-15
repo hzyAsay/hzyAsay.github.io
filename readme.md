@@ -52,7 +52,7 @@ npx vitepress init
 ### 后续操作
 配置完成后，可通过以下命令启动开发服务器：
 ```bash
-
+npm run docs:dev
 ```
 ### 部署Github page
 部署page时特别注意：
